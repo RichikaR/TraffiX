@@ -1,6 +1,6 @@
 # TraffiX
 
-A predictive traffic management dashboard built for the Bengaluru Traffic Police (BTP), designed as an operational extension to the ASTRAM Intelligence SDK. TraffiX moves beyond reactive incident mapping by using machine learning to forecast event clearance windows and prescribing mathematically-derived resource allocation plans before congestion develops.
+A predictive traffic management dashboard built for the Bengaluru Traffic Police (BTP), designed as an operational extension to the ASTRAM app. TraffiX moves beyond reactive incident mapping by using machine learning to forecast event clearance windows and prescribing mathematically-derived resource allocation plans before congestion develops.
 
 ---
 
